@@ -166,7 +166,7 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Learns to write correct Go code, following guidance and training materials"
+          - "Learns to write correct Typescript code, following guidance and training materials"
           - "Fixes simple bugs"
       - level: 2
         criteria:
