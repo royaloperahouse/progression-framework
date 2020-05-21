@@ -4,7 +4,7 @@ title: "📄 Generic Framework"
 sidebarTitle: "📄 Generic"
 sidebarGroup:
 yaml: true
-levels: 6
+levels: 3
 homepage: false
 topics:
   - name: "knowledge"
